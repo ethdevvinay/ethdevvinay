@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ethdevvinay" alt="ethdevvinay" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ethicscomp" target="blank"><img src="https://img.shields.io/twitter/follow/ethicscomp?logo=twitter&style=for-the-badge" alt="ethicscomp" /></a> </p>
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
