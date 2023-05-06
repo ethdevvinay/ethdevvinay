@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vinay Grover</h1>
-<h3 align="center">A passionate Professional developer from India</h3>
+<h3 align="center">A passionate Professional Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethdevvinay&label=Profile%20views&color=0e75b6&style=flat" alt="ethdevvinay" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ethdevvinay" alt="ethdevvinay" /></a> </p>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
