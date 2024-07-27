@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on EthicsComputer<br>👯 I’m looking to collaborate on Open Source Website & Software Development <br>🤝 I’m looking for help with Website Development<br>🌱 I’m currently learning NEXT JS<br>💬 Ask me about Website Development & Digiyal Marketing<br>⚡ Fun fact
+🔭 I’m currently working on EthicsComputer<br>👯 I’m looking to collaborate on Open Source Website & Software Development <br>🤝 I’m looking for help with Website Development<br>🌱 I’m currently learning NEXT JS<br>💬 Ask me about Website Development & Digital Marketing
 
 
 ## 🌐 Socials:
