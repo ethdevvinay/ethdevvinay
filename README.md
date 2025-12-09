@@ -261,15 +261,18 @@ Config files for my GitHub profile.
 
 <div>
 
-**Primary Development Languages:**
+We develop across both new and legacy programming languages — currently working with **68 programming languages** (new and old).
 
-| Language | Expertise | Proficiency |
-|:---:|:---|:---:|
-| **JavaScript** | Frontend & Backend | ⭐⭐⭐⭐⭐ |
-| **PHP** | Laravel & Backend | ⭐⭐⭐⭐⭐ |
-| **Python** | Automation & Security | ⭐⭐⭐⭐ |
-| **SQL** | Database Design | ⭐⭐⭐⭐ |
-| **Java** | Backend Systems | ⭐⭐⭐ |
+**Highlights:**
+- Experienced from low-level/legacy (Assembly, COBOL) to modern languages (JavaScript, TypeScript, Python, Rust, Go).
+- Comfortable across web, backend, scripting, embedded, and data languages.
+
+| Area | Representative Languages |
+|:---:|:---|
+| Frontend & Full-Stack | JavaScript, TypeScript, React, Next.js |
+| Backend & Systems | Node.js, PHP (Laravel), Python, Java, C/C++ |
+| Data & Automation | SQL, Python, Bash, R |
+| Legacy & Embedded | C, Assembly, COBOL |
 
 </div>
 
@@ -299,12 +302,12 @@ Config files for my GitHub profile.
 <div>
 
 | 🎯 Achievement | 🏆 Status | 📍 Details |
-|:---:|:---:|:---|
-| **Developer Badge** | ✅ | Full-Stack Expertise |
-| **Security Expert** | ✅ | Ethical Hacking & Pen Testing |
-| **Open Source Contributor** | ✅ | Multiple Public Repos |
-| **Community Leader** | ✅ | Mentor & Knowledge Sharing |
-| **Project Builder** | ✅ | 200+ Projects Completed |
+|:---:|:---:|:---:|
+| 🏆 **Developer Badge** | ✅ | Full-Stack Expertise |
+| 🏆 **Security Expert** | ✅ | Ethical Hacking & Pen Testing |
+| 🏆 **Open Source Contributor** | ✅ | Multiple Public Repos |
+| 🏆 **Community Leader** | ✅ | Mentor & Knowledge Sharing |
+| 🏆 **Project Builder** | ✅ | 200+ Projects Completed |
 
 **[Explore All Projects →](https://github.com/ethdevvinay?tab=repositories)**
 
@@ -437,6 +440,8 @@ Config files for my GitHub profile.
 
 ## 🙏 Thank You for Visiting My Profile!
 
+</div>
+
 If you found this profile valuable, please consider:
 
 ⭐ **Starring** the repositories that interest you <br>
@@ -446,13 +451,18 @@ If you found this profile valuable, please consider:
 </div>
 
 ---
-<div align="centre">
+<div align="center">
 
 ### 📌 Quick Links & Navigation
 
-[🏠 Home](#-hi-im-vinay-grover) | [📂 Projects](#-featured-projects--repositories) | [🏆 Achievements](#-career-milestones--achievements) | [💡 Tech Stack](#-complete-tech-stack-overview) | [📧 Contact](#-get-in-touch--lets-collaborate)
+[🏠 Home](#-hi-im-vinay-grover) | 
+[📂 Projects](#-featured-projects--repositories) | 
+[🏆 Achievements](#-career-milestones--achievements) | 
+[💡 Tech Stack](#-complete-tech-stack-overview) | 
+[📧 Contact](#-get-in-touch--lets-collaborate)
 
 </div>
+
 
 ---
 
