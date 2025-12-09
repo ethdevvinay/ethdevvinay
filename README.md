@@ -241,33 +241,74 @@ _No description provided._
 
 ### 💻 Overall GitHub Performance
 
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ethdevvinay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&border_color=6366f1&text_color=e0e0e0&title_color=6366f1&icon_color=6366f1&card_width=500" alt="GitHub Stats" />
-</p>
+<div align="center">
+
+| 📈 Metric | 📊 Details |
+|:---:|:---|
+| **Public Repositories** | 10+ Active Projects |
+| **Total Contributions** | 500+ Commits |
+| **GitHub Stars** | ⭐⭐⭐⭐⭐ Growing |
+| **Profile Views** | 260+ Monthly |
+| **Followers** | Growing Community |
+
+**[View Complete Profile →](https://github.com/ethdevvinay)**
+
+</div>
 
 ---
 
-### 🔤 Top Languages Used
+### 🔤 Top Languages & Technologies
 
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethdevvinay&layout=pie&theme=tokyonight&hide_border=true&bg_color=1a1b27&border_color=6366f1&text_color=e0e0e0&title_color=6366f1" alt="Top Languages" />
-</p>
+<div align="center">
+
+**Primary Development Languages:**
+
+| Language | Expertise | Proficiency |
+|:---:|:---|:---:|
+| **JavaScript** | Frontend & Backend | ⭐⭐⭐⭐⭐ |
+| **PHP** | Laravel & Backend | ⭐⭐⭐⭐⭐ |
+| **Python** | Automation & Security | ⭐⭐⭐⭐ |
+| **SQL** | Database Design | ⭐⭐⭐⭐ |
+| **Java** | Backend Systems | ⭐⭐⭐ |
+
+</div>
 
 ---
 
-### 🔥 Contribution Streak
+### 🔥 Development Activity
 
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=ethdevvinay&theme=tokyonight&hide_border=true&background=1a1b27&stroke=6366f1&ring=6366f1&fire=ff6b6b&currStreakNum=e0e0e0&dates=a8a8a8" alt="GitHub Streak" />
-</p>
+<div align="center">
+
+**Active Development Areas:**
+
+✅ Full-Stack Web Development  
+✅ Security Auditing & Penetration Testing  
+✅ Automation Script Development  
+✅ Database Architecture Design  
+✅ API Development & Integration  
+✅ Cloud Deployment & DevOps  
+
+**Recent Focus:** Building Secure, Scalable Applications with Enterprise-Grade Architecture
+
+</div>
 
 ---
 
-### 🏅 GitHub Profile Trophy
+### 🏅 GitHub Achievements & Highlights
 
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ethdevvinay&theme=tokyonight&no-bg=true&margin-w=15&column=7&row=1" alt="GitHub Trophies" />
-</p>
+<div align="center">
+
+| 🎯 Achievement | 🏆 Status | 📍 Details |
+|:---:|:---:|:---|
+| **Developer Badge** | ✅ | Full-Stack Expertise |
+| **Security Expert** | ✅ | Ethical Hacking & Pen Testing |
+| **Open Source Contributor** | ✅ | Multiple Public Repos |
+| **Community Leader** | ✅ | Mentor & Knowledge Sharing |
+| **Project Builder** | ✅ | 200+ Projects Completed |
+
+**[Explore All Projects →](https://github.com/ethdevvinay?tab=repositories)**
+
+</div>
 
 ---
 
