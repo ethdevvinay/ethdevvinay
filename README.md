@@ -170,7 +170,7 @@ Config files for my GitHub profile.
 
 ### [shrishyamjitaxiservice](https://github.com/ethdevvinay/shrishyamjitaxiservice)
 
-_No description provided._
+🚖 Taxi & Transportation Service Platform - Real-time booking, dispatch system, payment integration & customer management
 **Tech / Topics:** —
 
 [Repository](https://github.com/ethdevvinay/shrishyamjitaxiservice)
@@ -179,7 +179,7 @@ _No description provided._
 
 ### [hradvertiser](https://github.com/ethdevvinay/hradvertiser)
 
-_No description provided._
+💼 HR & Recruitment Management System - Job posting, applicant tracking, resume screening & hiring workflow automation
 **Tech / Topics:** —
 
 [Repository](https://github.com/ethdevvinay/hradvertiser)
@@ -188,7 +188,7 @@ _No description provided._
 
 ### [gaushala](https://github.com/ethdevvinay/gaushala)
 
-_No description provided._
+🐄 Cow Sanctuary Management Platform - Community-driven animal welfare, health tracking, donation management & volunteer coordination
 **Tech / Topics:** —
 
 [Repository](https://github.com/ethdevvinay/gaushala)
@@ -197,7 +197,7 @@ _No description provided._
 
 ### [silkenweb](https://github.com/ethdevvinay/silkenweb)
 
-_No description provided._
+🧵 E-Commerce Platform for Silk & Textile Products - Inventory management, product catalog, secure payments & order tracking
 **Tech / Topics:** —
 
 [Repository](https://github.com/ethdevvinay/silkenweb)
@@ -206,7 +206,7 @@ _No description provided._
 
 ### [salonsoftware](https://github.com/ethdevvinay/salonsoftware)
 
-_No description provided._
+💇 Salon & Beauty Services Management - Appointment scheduling, staff management, billing & customer loyalty programs
 **Tech / Topics:** —
 
 [Repository](https://github.com/ethdevvinay/salonsoftware)
