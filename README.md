@@ -71,7 +71,9 @@ I also run **EthicsComputer**, a tech-driven company focused on security, develo
 
 # 📂 Featured Projects
 
+<!--START_AUTOGEN-->
 > 🔥 **Add your repo links below — these cards will auto-update if you integrate GitHub Action later.**
+<!--END_AUTOGEN-->
 
 ### 🧩 **Project 1 — SaaS CRM Application**
 - Full stack CRM with custom roles, email automation, invoices & leads system  
