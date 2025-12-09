@@ -137,10 +137,26 @@ async function findRepoScreenshot(owner, repo) {
 }
 
 /** Build markdown for a single repo card */
+function getSmartDescription(repoName, description) {
+  // If description exists, use it
+  if (description) return description.replace(/\n/g, ' ');
+  
+  // Smart fallback descriptions based on repo name
+  const descMap = {
+    'shrishyamjitaxiservice': '🚖 Taxi & Transportation Service Platform - Real-time booking, dispatch system, payment integration & customer management',
+    'hradvertiser': '💼 HR & Recruitment Management System - Job posting, applicant tracking, resume screening & hiring workflow automation',
+    'gaushala': '🐄 Cow Sanctuary Management Platform - Community-driven animal welfare, health tracking, donation management & volunteer coordination',
+    'silkenweb': '🧵 E-Commerce Platform for Silk & Textile Products - Inventory management, product catalog, secure payments & order tracking',
+    'salonsoftware': '💇 Salon & Beauty Services Management - Appointment scheduling, staff management, billing & customer loyalty programs'
+  };
+  
+  return descMap[repoName] || '_Project repository_';
+}
+
 function buildProjectCard(repo, screenshot) {
   const title = repo.name;
   const repoUrl = repo.html_url;
-  const desc = repo.description ? repo.description.replace(/\n/g, ' ') : '_No description provided._';
+  const desc = getSmartDescription(repo.name, repo.description);
   const topics = (repo.topics || []).slice(0, 6).map(t => `\`${t}\``).join(' ') || '—';
   const demo = repo.homepage || (repo.has_pages ? `https://${OWNER}.github.io/${repo.name}` : null);
 
