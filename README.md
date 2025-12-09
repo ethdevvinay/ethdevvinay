@@ -1,7 +1,15 @@
 <!-- ======= HEADER SECTION ======= -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=👋+Vinay+Grover;🔐+Ethical+Hacker;💻+Full-Stack+Developer;📱+Digital+Marketer;🚀+Founder+%40+EthicsComputer" alt="Typing SVG" />
+
+# 👋 Hi, I'm **Vinay Grover**
+
+## 🔐 Ethical Hacker | 💻 Full-Stack Developer | 📱 Digital Marketer | 🚀 Founder @ EthicsComputer
+
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=4000&pause=500&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Secure+Applications;Ethical+Hacking+%26+Penetration+Testing;Digital+Transformation+Specialist;Cybersecurity+First+Mindset" alt="Typing SVG" />
 </div>
 
 <br />
@@ -152,7 +160,7 @@ I'm a results-driven **Full-Stack Developer**, **Cybersecurity Specialist**, and
 
 Config files for my GitHub profile.
 
-<p align="center"><a href="https://github.com/ethdevvinay/ethdevvinay" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=ethdevvinay&label=Profile%20Visits&color=6366f1&style=flat" alt="ethdevvinay screenshot" width="740" style="max-width:100%;border-radius:8px"></a></p>
+<p align="center"><a href="https://github.com/ethdevvinay/ethdevvinay" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="ethdevvinay screenshot" width="740" style="max-width:100%;border-radius:8px"></a></p>
 
 **Tech / Topics:** `config` `github-config`
 
@@ -162,9 +170,8 @@ Config files for my GitHub profile.
 
 ### [shrishyamjitaxiservice](https://github.com/ethdevvinay/shrishyamjitaxiservice)
 
-A comprehensive **taxi/transportation service booking platform** with real-time dispatch system, payment integration, and customer management.
-
-**Tech / Topics:** `Node.js` `React` `MongoDB` `Real-time API`
+_No description provided._
+**Tech / Topics:** —
 
 [Repository](https://github.com/ethdevvinay/shrishyamjitaxiservice)
 
@@ -172,9 +179,8 @@ A comprehensive **taxi/transportation service booking platform** with real-time 
 
 ### [hradvertiser](https://github.com/ethdevvinay/hradvertiser)
 
-**HR & Recruitment Management System** - Complete solution for job posting, applicant tracking, resume screening, and hiring workflow automation.
-
-**Tech / Topics:** `Laravel` `MySQL` `Job Portal` `Recruitment`
+_No description provided._
+**Tech / Topics:** —
 
 [Repository](https://github.com/ethdevvinay/hradvertiser)
 
@@ -182,9 +188,8 @@ A comprehensive **taxi/transportation service booking platform** with real-time 
 
 ### [gaushala](https://github.com/ethdevvinay/gaushala)
 
-Community-driven **Cow Sanctuary Management Platform** for animal welfare, health tracking, donation management, and volunteer coordination.
-
-**Tech / Topics:** `Full-Stack` `Community Platform` `Donation System`
+_No description provided._
+**Tech / Topics:** —
 
 [Repository](https://github.com/ethdevvinay/gaushala)
 
@@ -192,9 +197,8 @@ Community-driven **Cow Sanctuary Management Platform** for animal welfare, healt
 
 ### [silkenweb](https://github.com/ethdevvinay/silkenweb)
 
-**E-Commerce Platform for Silk & Textile Products** - Features include inventory management, product catalog, secure payments, and order tracking.
-
-**Tech / Topics:** `E-Commerce` `Inventory Management` `Payment Gateway`
+_No description provided._
+**Tech / Topics:** —
 
 [Repository](https://github.com/ethdevvinay/silkenweb)
 
@@ -202,9 +206,8 @@ Community-driven **Cow Sanctuary Management Platform** for animal welfare, healt
 
 ### [salonsoftware](https://github.com/ethdevvinay/salonsoftware)
 
-**Salon & Beauty Services Management System** - Appointment scheduling, staff management, billing system, and customer loyalty program.
-
-**Tech / Topics:** `Salon Management` `Booking System` `PHP` `MySQL`
+_No description provided._
+**Tech / Topics:** —
 
 [Repository](https://github.com/ethdevvinay/salonsoftware)
 
