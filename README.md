@@ -72,7 +72,63 @@ I also run **EthicsComputer**, a tech-driven company focused on security, develo
 # 📂 Featured Projects
 
 <!--START_AUTOGEN-->
-> 🔥 **Add your repo links below — these cards will auto-update if you integrate GitHub Action later.**
+
+### [ethdevvinay](https://github.com/ethdevvinay/ethdevvinay)
+
+Config files for my GitHub profile.
+
+<p align="center"><a href="https://github.com/ethdevvinay/ethdevvinay" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=ethicscomputer&label=Profile%20Visits&color=blueviolet&style=flat" alt="ethdevvinay screenshot" width="740" style="max-width:100%;border-radius:8px"></a></p>
+
+**Tech / Topics:** `config` `github-config`
+
+**Demo:** [Live Demo](https://github.com/ethdevvinay) · [Repository](https://github.com/ethdevvinay/ethdevvinay)
+
+---
+
+### [shrishyamjitaxiservice](https://github.com/ethdevvinay/shrishyamjitaxiservice)
+
+_No description provided._
+**Tech / Topics:** —
+
+[Repository](https://github.com/ethdevvinay/shrishyamjitaxiservice)
+
+---
+
+### [hradvertiser](https://github.com/ethdevvinay/hradvertiser)
+
+_No description provided._
+**Tech / Topics:** —
+
+[Repository](https://github.com/ethdevvinay/hradvertiser)
+
+---
+
+### [gaushala](https://github.com/ethdevvinay/gaushala)
+
+_No description provided._
+**Tech / Topics:** —
+
+[Repository](https://github.com/ethdevvinay/gaushala)
+
+---
+
+### [silkenweb](https://github.com/ethdevvinay/silkenweb)
+
+_No description provided._
+**Tech / Topics:** —
+
+[Repository](https://github.com/ethdevvinay/silkenweb)
+
+---
+
+### [salonsoftware](https://github.com/ethdevvinay/salonsoftware)
+
+_No description provided._
+**Tech / Topics:** —
+
+[Repository](https://github.com/ethdevvinay/salonsoftware)
+
+
 <!--END_AUTOGEN-->
 
 ### 🧩 **Project 1 — SaaS CRM Application**
