@@ -229,7 +229,11 @@ async function main() {
 
     // 5) Build recent commits list
     const recent = await getRecentCommits(repos, 12);
-    const recentMd = recent.length ? recent.map(c => `- [${c.repo}](${c.url}) — ${c.message} (${new Date(c.date).toLocaleString()})`).join('\n') : '_No recent commits found._';
+    const recentMd = recent.length ? recent.map(c => {
+      const repoUrl = `https://github.com/${OWNER}/${c.repo}`;
+      const dateStr = new Date(c.date).toISOString().split('T')[0];
+      return `- [${c.repo}](${repoUrl}) — updated ${dateStr}`;
+    }).join('\n') : '_No recent commits found._';
 
     // 6) Read local README.md
     const readmePath = path.join(process.cwd(), 'README.md');

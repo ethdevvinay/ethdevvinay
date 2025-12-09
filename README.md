@@ -231,18 +231,18 @@ Config files for my GitHub profile.
 
 <!--START_RECENT-->
 
-- [ethdevvinay](https://github.com/ethdevvinay/ethdevvinay/commit/a0cc3ededdd87ac23daeed09cb8079740ded9c90) — done (12/9/2025, 1:13:27 PM)
-- [shrishyamjitaxiservice](https://github.com/ethdevvinay/shrishyamjitaxiservice/commit/dd1a14040830f467d11882ce397717a45e75e280) — ff (11/22/2025, 7:11:20 AM)
-- [hradvertiser](https://github.com/ethdevvinay/hradvertiser/commit/6c36903c19a2bd98d890a91a5b31a31fac8a438c) — Add files via upload (11/7/2025, 9:06:34 AM)
-- [silkenweb](https://github.com/ethdevvinay/silkenweb/commit/f86a8559c8e9de0f855cd7ccdcfaade2534bf4b6) — Update package.json (5/5/2025, 6:53:04 PM)
-- [shrikhatushyamtourtravels.in.net](https://github.com/ethdevvinay/shrikhatushyamtourtravels.in.net/commit/44075030c66dc62cdefdd2cd763571f0c6ff6cd3) — updatee (12/4/2024, 4:07:43 PM)
-- [rohtaktaxiservice](https://github.com/ethdevvinay/rohtaktaxiservice/commit/50902a43301f2561f257dd324b368a2c3819c3e9) — update app (12/2/2024, 4:57:47 PM)
-- [AACHARYAKAMALNAYANMISHRA.IN](https://github.com/ethdevvinay/AACHARYAKAMALNAYANMISHRA.IN/commit/a8d3bae8b6270843e5873495912d5fa40eefeee3) — update add image (11/26/2024, 6:18:00 PM)
-- [coursewebindus](https://github.com/ethdevvinay/coursewebindus/commit/3fc901278e4b425452d062cf6304f3d01af4f0f6) — js (12/15/2023, 12:48:15 PM)
-- [GitHubExplorer](https://github.com/ethdevvinay/GitHubExplorer/commit/2389dcabc890c08cd997855b8f3ec5faf6cde285) — Create README.md (6/8/2023, 7:44:19 AM)
-- [TimerandStopwatch](https://github.com/ethdevvinay/TimerandStopwatch/commit/e420609b8979934b13a32e4c7e3b60397dc07624) — Create README.md (6/8/2023, 7:30:16 AM)
-- [ToDOList](https://github.com/ethdevvinay/ToDOList/commit/c9bc6fad07747387a3227681a24f1b36feb7ddb2) — Create README.md (6/8/2023, 7:19:14 AM)
-- [softwaretesting](https://github.com/ethdevvinay/softwaretesting/commit/890da7cc2fdd67a73b102d29c198af5b453a7b02) — Add files via upload (4/5/2023, 6:40:07 AM)
+- [ethdevvinay](https://github.com/ethdevvinay/ethdevvinay) — updated 2025-12-09
+- [shrishyamjitaxiservice](https://github.com/ethdevvinay/shrishyamjitaxiservice) — updated 2025-11-22
+- [hradvertiser](https://github.com/ethdevvinay/hradvertiser) — updated 2025-11-07
+- [silkenweb](https://github.com/ethdevvinay/silkenweb) — updated 2025-05-05
+- [shrikhatushyamtourtravels.in.net](https://github.com/ethdevvinay/shrikhatushyamtourtravels.in.net) — updated 2024-12-04
+- [rohtaktaxiservice](https://github.com/ethdevvinay/rohtaktaxiservice) — updated 2024-12-02
+- [AACHARYAKAMALNAYANMISHRA.IN](https://github.com/ethdevvinay/AACHARYAKAMALNAYANMISHRA.IN) — updated 2024-11-26
+- [coursewebindus](https://github.com/ethdevvinay/coursewebindus) — updated 2023-12-15
+- [GitHubExplorer](https://github.com/ethdevvinay/GitHubExplorer) — updated 2023-06-08
+- [TimerandStopwatch](https://github.com/ethdevvinay/TimerandStopwatch) — updated 2023-06-08
+- [ToDOList](https://github.com/ethdevvinay/ToDOList) — updated 2023-06-08
+- [softwaretesting](https://github.com/ethdevvinay/softwaretesting) — updated 2023-04-05
 
 <!--END_RECENT-->
 
