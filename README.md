@@ -14,14 +14,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ethdevvinay&label=Profile+Views&color=6366f1&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/ethdevvinay?style=flat-square&color=6366f1&label=Followers" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-6366f1?style=flat-square" alt="Open to Opportunities" />
+  <img src="https://komarev.com/ghpvc/?username=ethdevvinay&label=Profile+Views&color=6366f1&style=plastic" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ethdevvinay?style=plastic&color=6366f1&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-6366f1?style=plastic" alt="Open to Opportunities" />
 </p>
 
 <br />
-
----
 
 ---
 
@@ -81,8 +79,6 @@ I'm a results-driven **Full-Stack Developer**, **Cybersecurity Specialist**, and
     </td>
   </tr>
 </table>
-
----
 
 ---
 
@@ -148,8 +144,6 @@ I'm a results-driven **Full-Stack Developer**, **Cybersecurity Specialist**, and
 
 ---
 
----
-
 ## 📂 Featured Projects & Repositories
 
 <!--START_AUTOGEN-->
@@ -168,8 +162,9 @@ Config files for my GitHub profile.
 
 ### [shrishyamjitaxiservice](https://github.com/ethdevvinay/shrishyamjitaxiservice)
 
-_No description provided._
-**Tech / Topics:** —
+A comprehensive **taxi/transportation service booking platform** with real-time dispatch system, payment integration, and customer management.
+
+**Tech / Topics:** `Node.js` `React` `MongoDB` `Real-time API`
 
 [Repository](https://github.com/ethdevvinay/shrishyamjitaxiservice)
 
@@ -177,8 +172,9 @@ _No description provided._
 
 ### [hradvertiser](https://github.com/ethdevvinay/hradvertiser)
 
-_No description provided._
-**Tech / Topics:** —
+**HR & Recruitment Management System** - Complete solution for job posting, applicant tracking, resume screening, and hiring workflow automation.
+
+**Tech / Topics:** `Laravel` `MySQL` `Job Portal` `Recruitment`
 
 [Repository](https://github.com/ethdevvinay/hradvertiser)
 
@@ -186,8 +182,9 @@ _No description provided._
 
 ### [gaushala](https://github.com/ethdevvinay/gaushala)
 
-_No description provided._
-**Tech / Topics:** —
+Community-driven **Cow Sanctuary Management Platform** for animal welfare, health tracking, donation management, and volunteer coordination.
+
+**Tech / Topics:** `Full-Stack` `Community Platform` `Donation System`
 
 [Repository](https://github.com/ethdevvinay/gaushala)
 
@@ -195,8 +192,9 @@ _No description provided._
 
 ### [silkenweb](https://github.com/ethdevvinay/silkenweb)
 
-_No description provided._
-**Tech / Topics:** —
+**E-Commerce Platform for Silk & Textile Products** - Features include inventory management, product catalog, secure payments, and order tracking.
+
+**Tech / Topics:** `E-Commerce` `Inventory Management` `Payment Gateway`
 
 [Repository](https://github.com/ethdevvinay/silkenweb)
 
@@ -204,8 +202,9 @@ _No description provided._
 
 ### [salonsoftware](https://github.com/ethdevvinay/salonsoftware)
 
-_No description provided._
-**Tech / Topics:** —
+**Salon & Beauty Services Management System** - Appointment scheduling, staff management, billing system, and customer loyalty program.
+
+**Tech / Topics:** `Salon Management` `Booking System` `PHP` `MySQL`
 
 [Repository](https://github.com/ethdevvinay/salonsoftware)
 
