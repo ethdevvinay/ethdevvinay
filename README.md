@@ -242,25 +242,31 @@ _No description provided._
 ### 💻 Overall GitHub Performance
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ethdevvinay&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117&border_color=6366f1&text_color=ffffff&title_color=6366f1&icon_color=6366f1" alt="GitHub Stats" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ethdevvinay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&border_color=6366f1&text_color=e0e0e0&title_color=6366f1&icon_color=6366f1&card_width=500" alt="GitHub Stats" />
 </p>
+
+---
 
 ### 🔤 Top Languages Used
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethdevvinay&layout=donut&theme=tokyonight&hide_border=false&bg_color=0d1117&border_color=6366f1&text_color=ffffff&title_color=6366f1" alt="Top Languages" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethdevvinay&layout=pie&theme=tokyonight&hide_border=true&bg_color=1a1b27&border_color=6366f1&text_color=e0e0e0&title_color=6366f1" alt="Top Languages" />
 </p>
+
+---
 
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=ethdevvinay&theme=tokyonight&hide_border=false&background=0d1117&ring=6366f1&fire=6366f1&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=ethdevvinay&theme=tokyonight&hide_border=true&background=1a1b27&stroke=6366f1&ring=6366f1&fire=ff6b6b&currStreakNum=e0e0e0&dates=a8a8a8" alt="GitHub Streak" />
 </p>
+
+---
 
 ### 🏅 GitHub Profile Trophy
 
 <p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ethdevvinay&theme=tokyonight&no-bg=false&margin-w=15&column=7&row=2" alt="GitHub Trophies" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ethdevvinay&theme=tokyonight&no-bg=true&margin-w=15&column=7&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
