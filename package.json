@@ -1,1 +1,16 @@
-
+{
+  "name": "readme-auto-gen",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "update-readme": "node scripts/update-readme.js"
+  },
+  "dependencies": {
+    "@octokit/rest": "^19.0.7",
+    "node-fetch": "^3.3.2"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  }
+}
