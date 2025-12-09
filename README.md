@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://ethicscomputer.in" target="_blank"><img src="https://img.shields.io/badge/🌐_Website-ethicscomputer.in-6366F1?style=for-the-badge&logoColor=white" /></a>
   <a href="https://linkedin.com/in/devvinay" target="_blank"><img src="https://img.shields.io/badge/💼_LinkedIn-devvinay-0A66C2?style=for-the-badge&logoColor=white" /></a>
-  <a href="mailto:mail@ethicscomputer.com"><img src="https://img.shields.io/badge/📧_Email-mail@ethicscomputer.com-D14836?style=for-the-badge&logoColor=white" /></a>
+  <a href="mailto:mail@ethicscomputer.in"><img src="https://img.shields.io/badge/📧_Email-mail@ethicscomputer.in-D14836?style=for-the-badge&logoColor=white" /></a>
   <a href="https://wa.me/917015490654" target="_blank"><img src="https://img.shields.io/badge/💬_WhatsApp-Click%20to%20Chat-25D366?style=for-the-badge&logoColor=white" /></a>
 </p>
 
@@ -410,7 +410,7 @@ _No description provided._
       <h3>📧 Direct Contact</h3>
       <p>
         <strong>Email:</strong><br/>
-        <a href="mailto:mail@ethicscomputer.com">mail@ethicscomputer.com</a>
+        <a href="mailto:mail@ethicscomputer.in">mail@ethicscomputer.in</a>
       </p>
       <p>
         <strong>WhatsApp:</strong><br/>
