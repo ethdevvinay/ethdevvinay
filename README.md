@@ -436,18 +436,23 @@ Config files for my GitHub profile.
 <div align="center">
 
 ## 🙏 Thank You for Visiting My Profile!
-</div>
-<div>
+
 If you found this profile valuable, please consider:
-- ⭐ **Starring** the repositories that interest you
-- 📧 **Reaching out** for collaboration opportunities
-- 📢 **Sharing** with those who might benefit
+
+⭐ **Starring** the repositories that interest you <br>
+📧 **Reaching out** for collaboration opportunities <br>
+📢 **Sharing** with those who might benefit
+
 </div>
+
 ---
+<div align="centre">
 
 ### 📌 Quick Links & Navigation
 
 [🏠 Home](#-hi-im-vinay-grover) | [📂 Projects](#-featured-projects--repositories) | [🏆 Achievements](#-career-milestones--achievements) | [💡 Tech Stack](#-complete-tech-stack-overview) | [📧 Contact](#-get-in-touch--lets-collaborate)
+
+</div>
 
 ---
 
