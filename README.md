@@ -151,7 +151,63 @@ I'm a results-driven **Full-Stack Developer**, **Cybersecurity Specialist**, and
 ## 📂 Featured Projects & Repositories
 
 <!--START_AUTOGEN-->
-_Auto-generating..._
+
+### [ethdevvinay](https://github.com/ethdevvinay/ethdevvinay)
+
+Config files for my GitHub profile.
+
+<p align="center"><a href="https://github.com/ethdevvinay/ethdevvinay" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="ethdevvinay screenshot" width="740" style="max-width:100%;border-radius:8px"></a></p>
+
+**Tech / Topics:** `config` `github-config`
+
+**Demo:** [Live Demo](https://github.com/ethdevvinay) · [Repository](https://github.com/ethdevvinay/ethdevvinay)
+
+---
+
+### [shrishyamjitaxiservice](https://github.com/ethdevvinay/shrishyamjitaxiservice)
+
+🚖 Taxi & Transportation Service Platform - Real-time booking, dispatch system, payment integration & customer management
+**Tech / Topics:** —
+
+[Repository](https://github.com/ethdevvinay/shrishyamjitaxiservice)
+
+---
+
+### [hradvertiser](https://github.com/ethdevvinay/hradvertiser)
+
+💼 HR & Recruitment Management System - Job posting, applicant tracking, resume screening & hiring workflow automation
+**Tech / Topics:** —
+
+[Repository](https://github.com/ethdevvinay/hradvertiser)
+
+---
+
+### [gaushala](https://github.com/ethdevvinay/gaushala)
+
+🐄 Cow Sanctuary Management Platform - Community-driven animal welfare, health tracking, donation management & volunteer coordination
+**Tech / Topics:** —
+
+[Repository](https://github.com/ethdevvinay/gaushala)
+
+---
+
+### [silkenweb](https://github.com/ethdevvinay/silkenweb)
+
+🧵 E-Commerce Platform for Silk & Textile Products - Inventory management, product catalog, secure payments & order tracking
+**Tech / Topics:** —
+
+[Repository](https://github.com/ethdevvinay/silkenweb)
+
+---
+
+### [salonsoftware](https://github.com/ethdevvinay/salonsoftware)
+
+💇 Salon & Beauty Services Management - Appointment scheduling, staff management, billing & customer loyalty programs
+**Tech / Topics:** —
+
+[Repository](https://github.com/ethdevvinay/salonsoftware)
+
+
 <!--END_AUTOGEN-->
 
 ---
@@ -174,7 +230,20 @@ _Auto-generating..._
 ### 🔥 Recent Development Activity
 
 <!--START_RECENT-->
-_Auto-generating..._
+
+- [ethdevvinay](https://github.com/ethdevvinay/ethdevvinay/commit/a0cc3ededdd87ac23daeed09cb8079740ded9c90) — done (12/9/2025, 1:13:27 PM)
+- [shrishyamjitaxiservice](https://github.com/ethdevvinay/shrishyamjitaxiservice/commit/dd1a14040830f467d11882ce397717a45e75e280) — ff (11/22/2025, 7:11:20 AM)
+- [hradvertiser](https://github.com/ethdevvinay/hradvertiser/commit/6c36903c19a2bd98d890a91a5b31a31fac8a438c) — Add files via upload (11/7/2025, 9:06:34 AM)
+- [silkenweb](https://github.com/ethdevvinay/silkenweb/commit/f86a8559c8e9de0f855cd7ccdcfaade2534bf4b6) — Update package.json (5/5/2025, 6:53:04 PM)
+- [shrikhatushyamtourtravels.in.net](https://github.com/ethdevvinay/shrikhatushyamtourtravels.in.net/commit/44075030c66dc62cdefdd2cd763571f0c6ff6cd3) — updatee (12/4/2024, 4:07:43 PM)
+- [rohtaktaxiservice](https://github.com/ethdevvinay/rohtaktaxiservice/commit/50902a43301f2561f257dd324b368a2c3819c3e9) — update app (12/2/2024, 4:57:47 PM)
+- [AACHARYAKAMALNAYANMISHRA.IN](https://github.com/ethdevvinay/AACHARYAKAMALNAYANMISHRA.IN/commit/a8d3bae8b6270843e5873495912d5fa40eefeee3) — update add image (11/26/2024, 6:18:00 PM)
+- [coursewebindus](https://github.com/ethdevvinay/coursewebindus/commit/3fc901278e4b425452d062cf6304f3d01af4f0f6) — js (12/15/2023, 12:48:15 PM)
+- [GitHubExplorer](https://github.com/ethdevvinay/GitHubExplorer/commit/2389dcabc890c08cd997855b8f3ec5faf6cde285) — Create README.md (6/8/2023, 7:44:19 AM)
+- [TimerandStopwatch](https://github.com/ethdevvinay/TimerandStopwatch/commit/e420609b8979934b13a32e4c7e3b60397dc07624) — Create README.md (6/8/2023, 7:30:16 AM)
+- [ToDOList](https://github.com/ethdevvinay/ToDOList/commit/c9bc6fad07747387a3227681a24f1b36feb7ddb2) — Create README.md (6/8/2023, 7:19:14 AM)
+- [softwaretesting](https://github.com/ethdevvinay/softwaretesting/commit/890da7cc2fdd67a73b102d29c198af5b453a7b02) — Add files via upload (4/5/2023, 6:40:07 AM)
+
 <!--END_RECENT-->
 
 ---
@@ -256,7 +325,6 @@ _Auto-generating..._
 <p align="center">
   <strong>Built with ❤️ & ☕ by Vinay Grover</strong><br/>
   <em>Last Updated: December 2025</em><br/><br/>
-
   <a href="https://github.com/ethdevvinay"><img src="https://img.shields.io/badge/GitHub-ethdevvinay-181717?style=flat-square&logo=github" /></a>
   <a href="https://linkedin.com/in/devvinay"><img src="https://img.shields.io/badge/LinkedIn-devvinay-0A66C2?style=flat-square&logo=linkedin" /></a>
   <a href="https://ethicscomputer.in"><img src="https://img.shields.io/badge/Website-ethicscomputer-6366F1?style=flat-square&logo=globe" /></a>
