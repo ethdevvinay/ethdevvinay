@@ -27,8 +27,6 @@
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-6366f1?style=plastic" alt="Open to Opportunities" />
 </p>
 
-<br />
-
 ---
 
 ## 🎯 Professional Overview
@@ -46,21 +44,21 @@ I'm a results-driven **Full-Stack Developer**, **Cybersecurity Specialist**, and
     <td width="50%">
       <h3>🔐 Cybersecurity</h3>
       <ul>
-        <li>✅ Penetration Testing & Security Audits</li>
-        <li>✅ Vulnerability Assessment & Remediation</li>
-        <li>✅ OWASP Top 10 Mitigation</li>
-        <li>✅ Secure Code Review & Analysis</li>
-        <li>✅ Bug Bounty & Threat Modeling</li>
+        <li>Penetration Testing & Security Audits</li>
+        <li>Vulnerability Assessment & Remediation</li>
+        <li>OWASP Top 10 Mitigation</li>
+        <li>Secure Code Review & Analysis</li>
+        <li>Bug Bounty & Threat Modeling</li>
       </ul>
     </td>
     <td width="50%">
       <h3>💻 Full-Stack Development</h3>
       <ul>
-        <li>✅ Web & Mobile Applications</li>
-        <li>✅ SaaS Platforms & APIs</li>
-        <li>✅ Database Architecture Design</li>
-        <li>✅ Cloud Deployment (AWS, GCP)</li>
-        <li>✅ Microservices Architecture</li>
+        <li>Web & Mobile Applications</li>
+        <li>SaaS Platforms & APIs</li>
+        <li>Database Architecture Design</li>
+        <li>Cloud Deployment (AWS, GCP)</li>
+        <li>Microservices Architecture</li>
       </ul>
     </td>
   </tr>
@@ -68,21 +66,21 @@ I'm a results-driven **Full-Stack Developer**, **Cybersecurity Specialist**, and
     <td width="50%">
       <h3>🧠 Automation & Tools</h3>
       <ul>
-        <li>✅ Python Automation Scripts</li>
-        <li>✅ Bot Development & Integration</li>
-        <li>✅ CLI Tools & Utilities</li>
-        <li>✅ Workflow Automation</li>
-        <li>✅ API Integration Services</li>
+        <li>Python Automation Scripts</li>
+        <li>Bot Development & Integration</li>
+        <li>CLI Tools & Utilities</li>
+        <li>Workflow Automation</li>
+        <li>API Integration Services</li>
       </ul>
     </td>
     <td width="50%">
       <h3>📊 Digital Strategy</h3>
       <ul>
-        <li>✅ SEO & Content Strategy</li>
-        <li>✅ Digital Marketing Campaigns</li>
-        <li>✅ Brand Development & Growth</li>
-        <li>✅ Lead Generation Funnels</li>
-        <li>✅ Analytics & Performance</li>
+        <li>SEO & Content Strategy</li>
+        <li>Digital Marketing Campaigns</li>
+        <li>Brand Development & Growth</li>
+        <li>Lead Generation Funnels</li>
+        <li>Analytics & Performance</li>
       </ul>
     </td>
   </tr>
@@ -92,18 +90,16 @@ I'm a results-driven **Full-Stack Developer**, **Cybersecurity Specialist**, and
 
 ## 🌐 Let's Connect & Collaborate
 
-**Connect with me across multiple platforms for collaborations, consultations, and partnership opportunities.**
-
-| 🌎 Platform | 📍 Profile | 💼 Purpose |
+| 🌎 Platform | 🔗 Profile | 📌 Purpose |
 |:---:|:---:|:---|
-| **🌐 Website** | [ethicscomputer.in](https://ethicscomputer.in) | Official Business Hub |
-| **💼 LinkedIn** | [/in/devvinay](https://www.linkedin.com/in/devvinay/) | Professional Networking |
-| **🏢 Company** | [@ethicscomp](https://www.linkedin.com/company/ethicscomp/) | Company Updates |
-| **📸 Instagram** | [@vinaycybdev](https://www.instagram.com/vinaycybdev/) | Daily Tips & Updates |
-| **💬 Topmate** | [vinaygrover](https://topmate.io/vinaygrover) | 1-on-1 Mentorship |
-| **💼 GlobalLinker** | [ethicscomputer](https://www.globallinker.com/seller/ethicscomputer) | B2B Marketplace |
-| **📘 Facebook** | [EthicsComp](https://www.facebook.com/EthicsComp/) | Community & Updates |
-| **👥 FB Group** | [ethicscomputer](https://www.facebook.com/groups/ethicscomputer/) | Community Hub |
+| 🌐 **Website** | [ethicscomputer.in](https://ethicscomputer.in) | Official Business Hub |
+| 💼 **LinkedIn** | [/in/devvinay](https://www.linkedin.com/in/devvinay/) | Professional Networking |
+| 🏢 **Company** | [@ethicscomp](https://www.linkedin.com/company/ethicscomp/) | Company Updates |
+| 📸 **Instagram** | [@vinaycybdev](https://www.instagram.com/vinaycybdev/) | Daily Tips & Updates |
+| 💬 **Topmate** | [vinaygrover](https://topmate.io/vinaygrover) | 1-on-1 Mentorship |
+| 🌐 **GlobalLinker** | [ethicscomputer](https://www.globallinker.com/seller/ethicscomputer) | B2B Marketplace |
+| 📘 **Facebook** | [EthicsComp](https://www.facebook.com/EthicsComp/) | Community & Updates |
+| 👥 **FB Group** | [ethicscomputer](https://www.facebook.com/groups/ethicscomputer/) | Tech Community |
 
 ---
 
@@ -155,281 +151,70 @@ I'm a results-driven **Full-Stack Developer**, **Cybersecurity Specialist**, and
 ## 📂 Featured Projects & Repositories
 
 <!--START_AUTOGEN-->
-
-### [ethdevvinay](https://github.com/ethdevvinay/ethdevvinay)
-
-Config files for my GitHub profile.
-
-<p align="center"><a href="https://github.com/ethdevvinay/ethdevvinay" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="ethdevvinay screenshot" width="740" style="max-width:100%;border-radius:8px"></a></p>
-
-**Tech / Topics:** `config` `github-config`
-
-**Demo:** [Live Demo](https://github.com/ethdevvinay) · [Repository](https://github.com/ethdevvinay/ethdevvinay)
-
----
-
-### [shrishyamjitaxiservice](https://github.com/ethdevvinay/shrishyamjitaxiservice)
-
-🚖 Taxi & Transportation Service Platform - Real-time booking, dispatch system, payment integration & customer management
-**Tech / Topics:** —
-
-[Repository](https://github.com/ethdevvinay/shrishyamjitaxiservice)
-
----
-
-### [hradvertiser](https://github.com/ethdevvinay/hradvertiser)
-
-💼 HR & Recruitment Management System - Job posting, applicant tracking, resume screening & hiring workflow automation
-**Tech / Topics:** —
-
-[Repository](https://github.com/ethdevvinay/hradvertiser)
-
----
-
-### [gaushala](https://github.com/ethdevvinay/gaushala)
-
-🐄 Cow Sanctuary Management Platform - Community-driven animal welfare, health tracking, donation management & volunteer coordination
-**Tech / Topics:** —
-
-[Repository](https://github.com/ethdevvinay/gaushala)
-
----
-
-### [silkenweb](https://github.com/ethdevvinay/silkenweb)
-
-🧵 E-Commerce Platform for Silk & Textile Products - Inventory management, product catalog, secure payments & order tracking
-**Tech / Topics:** —
-
-[Repository](https://github.com/ethdevvinay/silkenweb)
-
----
-
-### [salonsoftware](https://github.com/ethdevvinay/salonsoftware)
-
-💇 Salon & Beauty Services Management - Appointment scheduling, staff management, billing & customer loyalty programs
-**Tech / Topics:** —
-
-[Repository](https://github.com/ethdevvinay/salonsoftware)
-
-
+_Auto-generating..._
 <!--END_AUTOGEN-->
-
-### 🌟 Highlights & Case Studies
-
-> **👉 Explore the repositories above for detailed project documentation, source code, case studies, and deployment strategies. Each project demonstrates real-world problem-solving and best practices in development and security.**
 
 ---
 
 ## 🏆 Career Milestones & Achievements
 
-<div>
-
 | 🎖️ Achievement | 📊 Metric |
 |:---:|:---|
-| **🔒 Security Audits** | Secured **80+ web applications** through comprehensive penetration testing & vulnerability assessments |
-| **🚀 Project Delivery** | Successfully completed **200+ projects** across web development, automation, and security |
-| **💼 Enterprise Solutions** | Built **5+ SaaS platforms**, **CRM systems**, and **marketing automation tools** |
-| **📈 Digital Growth** | Delivered **top-ranking SEO campaigns** with proven **ROI improvement** |
-| **🔬 Security Research** | Recognized for **vulnerability disclosures** and **ethical hacking contributions** |
-| **👥 Community Impact** | Active community builder with **hundreds of followers** across platforms |
-
-</div>
+| 🔒 **Security Audits** | Secured **80+ web applications** |
+| 🚀 **Project Delivery** | Completed **200+ software projects** |
+| 💼 **Enterprise Solutions** | Built **5+ SaaS & CRM systems** |
+| 📈 **Digital Growth** | Delivered **top-ranking SEO campaigns** |
+| 🔬 **Security Research** | Recognized for **bug bounty contributions** |
+| 👥 **Community Impact** | Active tech educator & mentor |
 
 ---
 
 ## 📊 GitHub Statistics & Analytics
 
-### 💻 Overall GitHub Performance
+### 🔥 Recent Development Activity
 
-<div>
-
-| 📈 Metric | 📊 Details |
-|:---:|:---|
-| **Public Repositories** | 10+ Active Projects |
-| **Total Contributions** | 500+ Commits |
-| **GitHub Stars** | ⭐⭐⭐⭐⭐ Growing |
-| **Profile Views** | 260+ Monthly |
-| **Followers** | Growing Community |
-
-**[View Complete Profile →](https://github.com/ethdevvinay)**
-
-</div>
-
----
-
-### 🔤 Top Languages & Technologies
-
-<div>
-
-We develop across both new and legacy programming languages — currently working with **68 programming languages** (new and old).
-
-**Highlights:**
-- Experienced from low-level/legacy (Assembly, COBOL) to modern languages (JavaScript, TypeScript, Python, Rust, Go).
-- Comfortable across web, backend, scripting, embedded, and data languages.
-
-| Area | Representative Languages |
-|:---:|:---|
-| Frontend & Full-Stack | JavaScript, TypeScript, React, Next.js |
-| Backend & Systems | Node.js, PHP (Laravel), Python, Java, C/C++ |
-| Data & Automation | SQL, Python, Bash, R |
-| Legacy & Embedded | C, Assembly, COBOL |
-
-</div>
-
----
-
-### 🔥 Development Activity
-
-<div>
-
-**Active Development Areas:**
-
-✅ Full-Stack Web Development  
-✅ Security Auditing & Penetration Testing  
-✅ Automation Script Development  
-✅ Database Architecture Design  
-✅ API Development & Integration  
-✅ Cloud Deployment & DevOps  
-
-**Recent Focus:** Building Secure, Scalable Applications with Enterprise-Grade Architecture
-
-</div>
-
----
-
-### 🏅 GitHub Achievements & Highlights
-
-<div>
-
-| 🎯 Achievement | 🏆 Status | 📍 Details |
-|:---:|:---:|:---:|
-| 🏆 **Developer Badge** | ✅ | Full-Stack Expertise |
-| 🏆 **Security Expert** | ✅ | Ethical Hacking & Pen Testing |
-| 🏆 **Open Source Contributor** | ✅ | Multiple Public Repos |
-| 🏆 **Community Leader** | ✅ | Mentor & Knowledge Sharing |
-| 🏆 **Project Builder** | ✅ | 200+ Projects Completed |
-
-**[Explore All Projects →](https://github.com/ethdevvinay?tab=repositories)**
-
-</div>
+<!--START_RECENT-->
+_Auto-generating..._
+<!--END_RECENT-->
 
 ---
 
 ## 💡 Complete Tech Stack Overview
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,php,laravel,mysql,mongodb,sqlite,python,java,cpp,c,git,github,docker,figma,tailwind,bootstrap,linux,vscode&perline=8&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,php,laravel,mysql,mongodb,sqlite,python,java,cpp,c,git,github,docker,figma,tailwind,bootstrap,linux,vscode&perline=8&theme=dark" />
 </p>
 
-<details>
-<summary><b>📚 Expand to see detailed tech proficiencies →</b></summary>
-
-#### 💻 Frontend & UI
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js, Next.js, Vue.js
-- TailwindCSS, Bootstrap, Material UI
-- Responsive Design & Accessibility
-
-#### 🔧 Backend & Servers
-- Node.js, Express.js
-- PHP, Laravel, Core PHP
-- Python, Java, C++
-- RESTful APIs, GraphQL
-
-#### 🗄️ Databases
-- MySQL, PostgreSQL
-- MongoDB, Firebase
-- SQLite, Redis
-- Database Design & Optimization
-
-#### 🔐 Security & DevOps
-- Penetration Testing & Ethical Hacking
-- OWASP Top 10 & CWE/CVSS
-- Docker, Kubernetes
-- CI/CD Pipelines, Git Workflows
-
-#### 🎨 Design & Tools
-- Figma, Adobe XD
-- VS Code, IntelliJ IDEA
-- Git, GitHub, Bitbucket
-- Postman, Swagger
-
-</details>
-
 ---
 
-## 💭 Professional Philosophy & Insights
+## 💭 Professional Philosophy
 
 <div align="center">
 
-### 🎯 My Mantra
-
-> **"Secure code isn't an afterthought—it's the foundation of every application I build."**
-
-*I believe in creating solutions that are not only functional and beautiful, but fundamentally secure by design. Every line of code matters.*
+### 🎯 My Mantra  
+> **"Secure code isn't an afterthought — it's the foundation of every application I build."**
 
 </div>
-
-### 🔥 What Drives My Work
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h4>☕ Code Philosophy</h4>
-      <ul>
-        <li>💪 Better code with coffee</li>
-        <li>🐛 Debugging is an art form</li>
-        <li>📝 Clean, readable, scalable code</li>
-        <li>✅ Security-first approach</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h4>🚀 Growth Mindset</h4>
-      <ul>
-        <li>🔐 Ethical hacking enthusiast</li>
-        <li>🤖 Automation advocate</li>
-        <li>📚 Continuous learning</li>
-        <li>🎯 Results-driven delivery</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 ---
 
-## 📧 Get in Touch & Let's Collaborate
-
-<div align="center">
-
-### 🤝 Open to Opportunities
-
-**Have a project, question, or collaboration idea? Let's discuss it!**
-
-</div>
+## 📧 Get in Touch
 
 <table width="100%">
   <tr>
     <td width="50%">
       <h3>📧 Direct Contact</h3>
-      <p>
-        <strong>Email:</strong><br/>
-        <a href="mailto:mail@ethicscomputer.in">mail@ethicscomputer.in</a>
-      </p>
-      <p>
-        <strong>WhatsApp:</strong><br/>
-        <a href="https://wa.me/917015490654" target="_blank">+91 701 549 0654</a>
-      </p>
+      <p><strong>Email:</strong><br/>
+      <a href="mailto:mail@ethicscomputer.in">mail@ethicscomputer.in</a></p>
+      <p><strong>WhatsApp:</strong><br/>
+      <a href="https://wa.me/917015490654" target="_blank">+91 701 549 0654</a></p>
     </td>
     <td width="50%">
       <h3>🌐 Online Presence</h3>
-      <p>
-        <strong>Website:</strong><br/>
-        <a href="https://ethicscomputer.in" target="_blank">ethicscomputer.in</a>
-      </p>
-      <p>
-        <strong>Schedule a Call:</strong><br/>
-        <a href="https://topmate.io/vinaygrover" target="_blank">Book on Topmate</a>
-      </p>
+      <p><strong>Website:</strong><br/>
+      <a href="https://ethicscomputer.in" target="_blank">ethicscomputer.in</a></p>
+      <p><strong>Schedule a Call:</strong><br/>
+      <a href="https://topmate.io/vinaygrover" target="_blank">Book on Topmate</a></p>
     </td>
   </tr>
 </table>
@@ -442,51 +227,42 @@ We develop across both new and legacy programming languages — currently workin
 
 </div>
 
-If you found this profile valuable, please consider:
-
-⭐ **Starring** the repositories that interest you <br>
-📧 **Reaching out** for collaboration opportunities <br>
-📢 **Sharing** with those who might benefit
-
-</div>
+⭐ **Starring** the repositories that interest you  
+📧 **Reaching out** for collaboration opportunities  
+📢 **Sharing** with those who might benefit  
 
 ---
+
 <div align="center">
 
 ### 📌 Quick Links & Navigation
 
 [🏠 Home](#-hi-im-vinay-grover) | 
-[📂 Projects](#-featured-projects--repositories) | 
-[🏆 Achievements](#-career-milestones--achievements) | 
-[💡 Tech Stack](#-complete-tech-stack-overview) | 
-[📧 Contact](#-get-in-touch--lets-collaborate)
+[📂 Projects](#📂-featured-projects--repositories) | 
+[🏆 Achievements](#🏆-career-milestones--achievements) | 
+[💡 Tech Stack](#💡-complete-tech-stack-overview) | 
+[📧 Contact](#📧-get-in-touch)
 
 </div>
-
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting!;Let's+build+something+amazing+together;Stay+secure%2C+code+clean%2C+ship+fast!" alt="Closing Message" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting!;Let's+build+something+amazing+together;Stay+secure%2C+code+clean%2C+ship+fast!" />
 </p>
 
 ---
 
 <p align="center">
   <strong>Built with ❤️ & ☕ by Vinay Grover</strong><br/>
-  <em>Last Updated: December 2025</em><br/>
-  <br/>
-  <a href="https://github.com/ethdevvinay"><img src="https://img.shields.io/badge/GitHub-ethdevvinay-181717?style=flat-square&logo=github" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/devvinay"><img src="https://img.shields.io/badge/LinkedIn-devvinay-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://ethicscomputer.in"><img src="https://img.shields.io/badge/Website-ethicscomputer-6366F1?style=flat-square&logo=globe" alt="Website" /></a>
-  <a href="https://wa.me/917015490654"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp" alt="WhatsApp" /></a>
+  <em>Last Updated: December 2025</em><br/><br/>
+
+  <a href="https://github.com/ethdevvinay"><img src="https://img.shields.io/badge/GitHub-ethdevvinay-181717?style=flat-square&logo=github" /></a>
+  <a href="https://linkedin.com/in/devvinay"><img src="https://img.shields.io/badge/LinkedIn-devvinay-0A66C2?style=flat-square&logo=linkedin" /></a>
+  <a href="https://ethicscomputer.in"><img src="https://img.shields.io/badge/Website-ethicscomputer-6366F1?style=flat-square&logo=globe" /></a>
+  <a href="https://wa.me/917015490654"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp" /></a>
 </p>
 
 <p align="center">
-  <sub>
-    If you have any questions or want to collaborate, feel free to reach out! 🚀
-  </sub>
+  <sub>If you have any questions or want to collaborate, feel free to reach out! 🚀</sub>
 </p>
-
-</div>
-
