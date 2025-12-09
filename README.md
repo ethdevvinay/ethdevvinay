@@ -222,7 +222,7 @@ Config files for my GitHub profile.
 
 ## 🏆 Career Milestones & Achievements
 
-<div align="center">
+<div>
 
 | 🎖️ Achievement | 📊 Metric |
 |:---:|:---|
@@ -241,7 +241,7 @@ Config files for my GitHub profile.
 
 ### 💻 Overall GitHub Performance
 
-<div align="center">
+<div>
 
 | 📈 Metric | 📊 Details |
 |:---:|:---|
@@ -259,7 +259,7 @@ Config files for my GitHub profile.
 
 ### 🔤 Top Languages & Technologies
 
-<div align="center">
+<div>
 
 **Primary Development Languages:**
 
@@ -277,7 +277,7 @@ Config files for my GitHub profile.
 
 ### 🔥 Development Activity
 
-<div align="center">
+<div>
 
 **Active Development Areas:**
 
@@ -296,7 +296,7 @@ Config files for my GitHub profile.
 
 ### 🏅 GitHub Achievements & Highlights
 
-<div align="center">
+<div>
 
 | 🎯 Achievement | 🏆 Status | 📍 Details |
 |:---:|:---:|:---|
@@ -404,9 +404,9 @@ Config files for my GitHub profile.
 
 </div>
 
-<table width="100%" align="center">
+<table width="100%">
   <tr>
-    <td width="50%" align="center">
+    <td width="50%">
       <h3>📧 Direct Contact</h3>
       <p>
         <strong>Email:</strong><br/>
@@ -417,7 +417,7 @@ Config files for my GitHub profile.
         <a href="https://wa.me/917015490654" target="_blank">+91 701 549 0654</a>
       </p>
     </td>
-    <td width="50%" align="center">
+    <td width="50%">
       <h3>🌐 Online Presence</h3>
       <p>
         <strong>Website:</strong><br/>
@@ -436,12 +436,13 @@ Config files for my GitHub profile.
 <div align="center">
 
 ## 🙏 Thank You for Visiting My Profile!
-
+</div>
+<div>
 If you found this profile valuable, please consider:
 - ⭐ **Starring** the repositories that interest you
 - 📧 **Reaching out** for collaboration opportunities
 - 📢 **Sharing** with those who might benefit
-
+</div>
 ---
 
 ### 📌 Quick Links & Navigation
