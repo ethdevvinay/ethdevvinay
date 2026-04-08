@@ -262,12 +262,7 @@ I work at the intersection of:
 ## 🏅 Achievement Hall
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ethdevvinay&theme=tokyonight&no-bg=true&margin-w=10&column=4&rank=SSS,SS,S,AAA" 
-         width="100%" 
-         alt="GitHub Trophies — Repositories, Commits, Stars, Followers, Issues, PRs" 
-         onerror="this.style.display='none'" />
-  </a>
+  <img src="./profile/trophy.svg" width="100%" alt="GitHub Trophies" />
 </div>
 
 ---
