@@ -7,21 +7,21 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
+
       - uses: soulteary/github-profile-trophy-action@main
         with:
-          github-user: ethdevvinay
-          theme: tokyonight
-          column: 4
-          rank: "SSS,SS,S,AAA"
-          output: "./assets/trophy.svg"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          path: profile/trophy.svg
+          options: "theme=tokyonight&column=4&rank=SSS,SS,S,AAA&no-bg=true&margin-w=10"
+
       - name: Commit Trophy
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add ./assets/trophy.svg
+          git add profile/trophy.svg
           git diff --staged --quiet || git commit -m "chore: update trophy"
           git push
