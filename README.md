@@ -1,120 +1,149 @@
-<!--
+<!-- 
   =============================================================================
-  🚀 VINAY GROVER | FOUNDER @ ETHICSCOMPUTER
+  ⚡ VINAY GROVER | THE ARCHITECT OF SECURE ECOSYSTEMS
   =============================================================================
-  Cybersecurity Expert | Full-Stack Developer | Digital Strategist
+  FOUNDER @ ETHICSCOMPUTER | CYBERSECURITY MAVEN | FULL-STACK VISIONARY
   =============================================================================
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=Vinay%20Grover&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Founder%20@%20EthicsComputer&descAlignY=62&descSize=25" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&width=1000&height=300&section=header&text=Vinay%20Grover&fontSize=80&animation=fadeIn&fontAlignY=35&desc=CEO%20&%20Lead%20Security%20Architect%20@%20EthicsComputer&descAlignY=55&descSize=20" width="100%" />
 </div>
 
 <div align="center">
-  
-  # 🛡️ Defending the Digital Frontier, One Byte at a Time
-  
-  [![Website](https://img.shields.io/badge/EthicsComputer-Visit%20Site-6366F1?style=for-the-badge&logoColor=white)](https://ethicscomputer.in)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/devvinay)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Let's%20Chat-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/917015490654)
-  
+
+  ## 🚀 Transforming Ideas into Secure, Enterprise-Grade Realities
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=6366F1&center=true&vCenter=true&width=700&lines=Building+Cyber-Resilient+Infrastructure;Full-Stack+Web+%26+Mobile+Architect;SEO+%26+Digital+Growth+Strategist;200%2B+Production-Ready+Projects+Deployed" alt="Typing SVG" />
+
+  <br/>
+
+  [![Website](https://img.shields.io/badge/ETHICSCOMPUTER-ACCESS_GATEWAY-6366F1?style=for-the-badge&logo=gateway&logoColor=white)](https://ethicscomputer.in)
+  [![LinkedIn](https://img.shields.io/badge/CONNECT-PROFESSIONAL_NETWORK-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/devvinay)
+  [![WhatsApp](https://img.shields.io/badge/ENQUIRY-DIRECT_CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/917015490654)
+
 </div>
 
----
-
-### 👨‍💻 About Me
-
-I am **Vinay Grover**, the driving force behind **[EthicsComputer](https://ethicscomputer.in)**. With a dual passion for **Cybersecurity** and **Modern Software Engineering**, I specialize in building applications that are not just high-performing, but inherently secure.
-
-- 🛡️ **Cybersecurity Specialist**: Specialized in Ethical Hacking, VAPT, and OWASP standards.
-- 💻 **Full-Stack Architect**: Crafting enterprise-grade SaaS and Web platforms.
-- 🚀 **Digital Strategist**: Helping businesses scale through technical SEO and growth hacking.
-- 🎓 **Mentor**: Passionate about leading the next generation of tech talent.
+<br/>
 
 ---
 
-### 🌐 EthicsComputer Solutions
+### 🏛️ Professional Dossier
 
-At **EthicsComputer**, we bridge the gap between innovation and security. We provide:
+I am **Vinay Grover**, an **Ethical Hacker** and **Senior Full-Stack Developer** with a relentless focus on creating zero-trust digital environments. As the founder of **[EthicsComputer](https://ethicscomputer.in)**, I specialize in the intersection of top-tier software engineering and iron-clad cybersecurity.
 
-- **Cybersecurity Audits**: Hardening systems against evolving threats.
-- **Enterprise Software**: Custom ERP, CRM, and SaaS development.
-- **Digital Transformation**: End-to-end consulting for business growth.
+- 🛡️ **Defensive Depth**: Expert in VAPT, Cloud Security, and Hardening Distributed Systems.
+- 🏗️ **Core Engineering**: Architecting scalable SaaS using MERN, Laravel, and Python.
+- 📈 **Growth Hacking**: Mastering the algorithms of Google and Social Engines to scale brands.
+- 💡 **Innovation**: Converting complex business problems into elegant code.
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🌌 EthicsComputer: Our Corporate Mission
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <b>🔐 SECURITY</b><br/>
+      Penetration Testing<br/>Security Audits<br/>OWASP Compliance
+    </td>
+    <td width="33%" align="center">
+      <b>💻 DEVELOPMENT</b><br/>
+      Custom CRM/ERP<br/>E-Commerce Engines<br/>SaaS Platforms
+    </td>
+    <td width="33%" align="center">
+      <b>🚀 GROWTH</b><br/>
+      Technical SEO<br/>Lead Funnels<br/>Digital Branding
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏆 Hall of Fame: GitHub Trophies
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ethdevvinay&theme=tokyonight&no-bg=true&margin-w=15&column=4" width="100%" />
+</div>
+
+---
+
+### 🛠️ The Full-Spectrum Tech Stack
+
+<div align="center">
+
+  #### 🛡️ SECURITY & PEN-TESTING
+  <img src="https://skillicons.dev/icons?i=kali,linux,docker,bash&perline=4" />
   
-  #### 💻 Development & Power 
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,php,laravel,python,cpp,c&perline=10" />
+  #### 💻 MASTER DEVELOPMENT
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,php,laravel,python,cpp,c,java,js&perline=11" />
   
-  #### 🗄️ Infrastructure & Security
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,docker,linux,git,github,vscode,kali&perline=10" />
-  
-  #### 🎨 Design & Styling
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma,css,html&perline=10" />
+  #### 🗄️ STORAGE & DATA FLOW
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite,graphql,postman&perline=6" />
+
+  #### 🎨 DESIGN & EXPERIENCE
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma,ps,ai,html,css&perline=7" />
 
 </div>
 
 ---
 
-### 📈 Global Impact & Stats
+### 📊 Strategic Analytics
 
 <div align="center">
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ethdevvinay&show_icons=true&theme=omni&hide_border=true&count_private=true" width="400px" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethdevvinay&theme=tokyonight&hide_border=true" width="100%" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethdevvinay&layout=compact&theme=omni&hide_border=true&langs_count=8" width="400px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethdevvinay&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
       </td>
     </tr>
   </table>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ethdevvinay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="80%" />
+</div>
+
+---
+
+### 🐉 Contribution Map
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ethdevvinay/ethdevvinay/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 ---
 
 ### 📂 Featured Digital Ecosystems
 
-| Project Name          | Focus Area          | Technology Stack                    |
-| :-------------------- | :------------------ | :---------------------------------- |
-| **Taxi Dispatch Hub** | Transport Logistics | Real-time APIs, Payment Integration |
-| **HR Advertiser**     | Recruitment SaaS    | Workflow Automation, ATS            |
-| **Gaushala Portal**   | Animal Welfare      | Community Management, Donations     |
-| **Silken Web**        | Luxury E-Commerce   | Inventory Management, CMS           |
-| **Salon Software**    | Beauty Tech         | Appointment Scheduling, CRM         |
+| Icon | Project | Domain | Stack Overview |
+| :---: | :--- | :--- | :--- |
+| 🚖 | **Taxi Dispatch Hub** | Transport | Node.js, Socket.io, Razorpay |
+| 💼 | **HR Advertiser** | HR-Tech | Laravel, React, MySQL |
+| 🐄 | **Gaushala Portal** | Social | Next.js, Cloudinary, MongoDB |
+| 🧵 | **Silken Web** | E-Com | React, Tailwind, Stripe |
+| 💇 | **Salon Software** | SaaS | PHP, Bootstrap, SQLite |
 
 ---
 
-### 🏆 Milestones
+### 🤝 Strategic Collaboration
 
-- 🔒 **80+** High-profile Security Audits completed.
-- 📦 **200+** Software Projects successfully delivered.
-- 💡 Built **5+** Multi-tenant SaaS platforms.
-- 🌟 Recognized contributor to the Cybersecurity community.
+I am currently accepting inquiries for **High-End Security Mentorship**, **Enterprise Architectural Consulting**, and **Venture Partnerships**.
 
----
-
-### 🤝 Let's Build the Future
-
-I'm always open to discussing **Advanced Security Collaborations**, **Enterprise Ventures**, or **Innovative Tech Projects**.
-
-- **Email**: [mail@ethicscomputer.in](mailto:mail@ethicscomputer.in)
-- **LinkedIn**: [Vinay Grover](https://linkedin.com/in/devvinay)
-- **Topmate**: [1:1 Mentorship](https://topmate.io/vinaygrover)
+- 📬 **Direct Email**: [mail@ethicscomputer.in](mailto:mail@ethicscomputer.in)
+- 💬 **WhatsApp**: [Ping Me Anytime](https://wa.me/917015490654)
+- 📅 **Topmate**: [Reserve a Session](https://topmate.io/vinaygrover)
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Security%20is%20not%20a%20product%2C%20it%20is%20a%20process." alt="Daily Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=In%20the%20world%20of%20code%2C%20the%20only%20limit%20is%20your%20imagination%20and%20your%20security." alt="Daily Quote" />
 </div>
 
 <br />
 
 <div align="center">
-  <sub><b>Built with Precision & Dedication by Vinay Grover</b></sub><br/>
+  <sub><b>Engineered by Vinay Grover | Powered by Integrity</b></sub><br/>
   <sub>© 2026 EthicsComputer. All rights reserved.</sub>
 </div>
