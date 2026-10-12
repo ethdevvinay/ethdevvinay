@@ -13,27 +13,20 @@
 
 <br/>
 
-<!-- Connect Badges -->
-<a href="mailto:vinay@ethicscomputer.in">
-  <img src="https://img.shields.io/badge/Email-vinay%40ethicscomputer.in-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" />
-</a>
-<a href="https://ethicscomputer.in" target="_blank">
-  <img src="https://img.shields.io/badge/Website-ethicscomputer.in-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Website" />
-</a>
-<a href="https://linkedin.com/in/devvinay" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-devvinay-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
-</a>
-<a href="https://topmate.io/vinaygrover" target="_blank">
-  <img src="https://img.shields.io/badge/Topmate-Book_a_Call-0F172A?style=for-the-badge&logo=googlecalendar&logoColor=38BDF8" alt="Topmate" />
-</a>
-<a href="https://wa.me/919053210052" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-Connect-0F172A?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp" />
-</a>
+<!-- Connect Badges (Single Row & Clean Wrap) -->
+<a href="mailto:vinay@ethicscomputer.in"><img src="https://img.shields.io/badge/Email-vinay%40ethicscomputer.in-0F172A?style=flat-square&logo=gmail&logoColor=38BDF8" alt="Email" /></a>
+<a href="https://ethicscomputer.in" target="_blank"><img src="https://img.shields.io/badge/Web-ethicscomputer.in-0F172A?style=flat-square&logo=googlechrome&logoColor=38BDF8" alt="Website" /></a>
+<a href="https://linkedin.com/in/devvinay" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-devvinay-0F172A?style=flat-square&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
+<a href="https://github.com/ethicscomputer" target="_blank"><img src="https://img.shields.io/badge/GitHub-ethicscomputer-0F172A?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub" /></a>
+<a href="https://topmate.io/vinaygrover" target="_blank"><img src="https://img.shields.io/badge/Topmate-Book_a_Call-0F172A?style=flat-square&logo=googlecalendar&logoColor=38BDF8" alt="Topmate" /></a>
+<a href="https://wa.me/919053210052" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Message-0F172A?style=flat-square&logo=whatsapp&logoColor=25D366" alt="WhatsApp" /></a>
 
 <br/><br/>
 
-<!-- Live Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=ethdevvinay&label=PROFILE%20VIEWS&color=0e7490&style=flat-square" alt="Profile Views" />
+<!-- Real-Time Profile Views (CORS & CSP Friendly) -->
+<a href="https://github.com/ethdevvinay">
+  <img src="https://hits.sh/github.com/ethdevvinay.svg?view=today-total&style=flat-square&label=Profile%20Views&color=0e7490" alt="Profile Views" />
+</a>
 
 </div>
 
@@ -208,12 +201,7 @@ writing:   "Practical DevSecOps: Hardening Web Apps from Day 0"
 
 <div align="center">
 
-<!-- GitHub Trophies (Dynamic API - Never Broken) -->
-<img src="https://github-profile-trophy.vercel.app/?username=ethdevvinay&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" width="100%" alt="GitHub Trophies" />
-
-<br/><br/>
-
-<!-- Stats & Top Languages -->
+<!-- GitHub Stats & Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api?username=ethdevvinay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=10" height="175" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethdevvinay&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" height="175" alt="Top Languages" />
 
@@ -224,12 +212,7 @@ writing:   "Practical DevSecOps: Hardening Web Apps from Day 0"
 
 <br/><br/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ethdevvinay&theme=tokyo-night&hide_border=true&area=true&border_radius=10" width="100%" alt="Activity Graph" />
-
-<br/><br/>
-
-<!-- Contribution Snake -->
+<!-- Animated Contribution Snake -->
 <img src="https://raw.githubusercontent.com/ethdevvinay/ethdevvinay/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 
 </div>
@@ -263,17 +246,11 @@ Currently available for **Security Audits & VAPT**, **Cloud Architecture**, and 
 
 <div align="center">
 
-<a href="mailto:vinay@ethicscomputer.in">
-  <img src="https://img.shields.io/badge/📧_Email_Me-1D4ED8?style=for-the-badge" alt="Email Me" />
-</a>
+<a href="mailto:vinay@ethicscomputer.in"><img src="https://img.shields.io/badge/Email_Me-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" /></a>
 &nbsp;
-<a href="https://topmate.io/vinaygrover" target="_blank">
-  <img src="https://img.shields.io/badge/📅_Book_Consultation-7C3AED?style=for-the-badge" alt="Book Consultation" />
-</a>
+<a href="https://topmate.io/vinaygrover" target="_blank"><img src="https://img.shields.io/badge/Book_Consultation-7C3AED?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book Consultation" /></a>
 &nbsp;
-<a href="https://wa.me/919053210052" target="_blank">
-  <img src="https://img.shields.io/badge/💬_WhatsApp_Direct-25D366?style=for-the-badge" alt="WhatsApp" />
-</a>
+<a href="https://wa.me/919053210052" target="_blank"><img src="https://img.shields.io/badge/WhatsApp_Direct-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Direct" /></a>
 
 <br/><br/>
 
