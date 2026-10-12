@@ -25,7 +25,7 @@
 
 ## 👋 About
 
-I'm **Vinay Grover**, founder of **[EthicsComputer](https://ethicscomputer.in)**, based in Sonīpat, Haryana. I build software that stays fast, scales cleanly and is difficult to break — and I help teams ship it securely.
+I'm **Vinay Grover**, founder of **[EthicsComputer](https://ethicscomputer.in)**, based in Rohtak, Haryana. I build software that stays fast, scales cleanly and is difficult to break — and I help teams ship it securely.
 
 <table>
 <tr>
