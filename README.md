@@ -14,6 +14,7 @@
 <a href="mailto:vinay@ethicscomputer.in"><img src="https://img.shields.io/badge/Email-vinay@ethicscomputer.in-0F172A?style=flat-square&logo=gmail&logoColor=38BDF8" /></a>
 <a href="https://ethicscomputer.in"><img src="https://img.shields.io/badge/Web-ethicscomputer.in-0F172A?style=flat-square&logo=googlechrome&logoColor=38BDF8" /></a>
 <a href="https://linkedin.com/in/devvinay"><img src="https://img.shields.io/badge/LinkedIn-devvinay-0F172A?style=flat-square&logo=linkedin&logoColor=38BDF8" /></a>
+<a href="https://github.com/ethicscomputer"><img src="https://img.shields.io/badge/GitHub-ethicscomputer-0F172A?style=flat-square&logo=github&logoColor=38BDF8" /></a>
 <a href="https://topmate.io/vinaygrover"><img src="https://img.shields.io/badge/Topmate-Book_a_call-0F172A?style=flat-square&logo=googlecalendar&logoColor=38BDF8" /></a>
 <a href="https://wa.me/919053210052"><img src="https://img.shields.io/badge/WhatsApp-Message-0F172A?style=flat-square&logo=whatsapp&logoColor=38BDF8" /></a>
 
@@ -34,6 +35,7 @@ I'm **Vinay Grover**, founder of **[EthicsComputer](https://ethicscomputer.in)**
 **What I do**
 
 🛡️ **Security** — VAPT, cloud hardening, secure architecture<br/>
+🤖 **AI & Automation** — AI agents, RAG, WhatsApp bots, workflows<br/>
 🏗️ **Engineering** — SaaS, ERP, CRM, modern web apps<br/>
 📈 **Growth** — technical SEO, conversion, visibility<br/>
 👨‍🏫 **Mentorship** — 500+ developers trained on secure coding
@@ -51,6 +53,81 @@ I'm **Vinay Grover**, founder of **[EthicsComputer](https://ethicscomputer.in)**
 </td>
 </tr>
 </table>
+
+<br/>
+
+## 🏢 EthicsComputer
+
+An integrated technology, cybersecurity and compliance firm — **HQ in Rohtak, Haryana**, with offices in Jhajjar and Gurugram, delivering across India.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🛡️ Cybersecurity & VAPT**<br/>
+<sub>Web, API, mobile, network & cloud VAPT · CERT-In, ISO 27001 & DPDP Act readiness</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**💻 Software & Web**<br/>
+<sub>SaaS, ERP, CRM, B2B portals, React / Next.js / Laravel sites, Android & iOS apps</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**🤖 AI & Automation**<br/>
+<sub>AI agents, chatbots, RAG systems, LLM integration, WhatsApp automation</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**☁️ Cloud & DevOps**<br/>
+<sub>AWS & GCP architecture, Kubernetes, CI/CD, backup & disaster recovery</sub>
+
+</td>
+<td valign="top">
+
+**💳 Payments & FinTech**<br/>
+<sub>Razorpay, Cashfree, UPI, payouts, BBPS integrations & reconciliation</sub>
+
+</td>
+<td valign="top">
+
+**📈 Marketing & SEO**<br/>
+<sub>Technical & local SEO, performance ads, lead generation</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**🧾 CA, Tax & Legal**<br/>
+<sub>GST, ITR, TDS, company & LLP incorporation, trademarks, NGO 12AB/80G</sub>
+
+</td>
+<td valign="top">
+
+**🎓 Training & Internships**<br/>
+<sub>Ethical hacking, AI and full-stack programmes for teams & students</sub>
+
+</td>
+<td valign="top">
+
+**🛠️ Support & AMC**<br/>
+<sub>Maintenance, server management, security monitoring</sub>
+
+</td>
+</tr>
+</table>
+
+**📦 Our platforms** — [EthicsHRMS](https://ethicscomputer.in/services/hrms) (attendance & payroll) · [EthicsCRM](https://ethicscomputer.in/services/ethicscrm) (WhatsApp lead pipeline) · [KhataFlow ERP](https://ethicscomputer.in/khataflow) (GST, inventory & e-invoicing) · [EthicsLMS](https://ethicscomputer.in/services/ethicslms) (corporate training)
+
+**🏭 Industries** — Manufacturing · FinTech & Banking · Healthcare · Education · Real Estate · Retail & E-commerce · CA & Legal firms · NGOs
+
+**✅ Registrations** — ISO 9001 · ISO 20000 · ISO 27001 · MSME (Udyam) · Startup India / DPIIT · GeM registered vendor
 
 <br/>
 
@@ -121,6 +198,10 @@ writing:   Security checklist series for startup founders
 </tr>
 </table>
 
+**VAPT process:** Discover → Penetrate → Triage → Retest → Attest<br/>
+**Standards:** OWASP Top 10 & ASVS · NIST SP 800-115 · CVSS v3.1 scoring · CERT-In aligned reporting<br/>
+**Flagship:** [Company IT & Security Audit](https://ethicscomputer.in/services/company-audit) — VAPT + architecture review, from ₹25,000
+
 <br/>
 
 ## 💬 Client Feedback
@@ -185,6 +266,15 @@ Follow on [LinkedIn](https://linkedin.com/in/devvinay) or [ethicscomputer.in](ht
 <img src="https://raw.githubusercontent.com/ethdevvinay/ethdevvinay/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
 
 </div>
+
+<br/>
+
+## 🧰 Free Resources
+
+🔧 [40+ free tools](https://ethicscomputer.in/tools) — SSL checker, GST & income-tax calculators, VAPT & website cost estimators<br/>
+📝 [Engineering & security blog](https://ethicscomputer.in/blog)<br/>
+⚖️ [Architecture comparisons](https://ethicscomputer.in/compare) — VAPT vs pen-test, ERP vs CRM, Flutter vs React Native and more<br/>
+🎓 [Internship programme](https://ethicscomputer.in/internship) · 🤝 [Partner network](https://ethicscomputer.in/partner-program.php)
 
 <br/>
 
